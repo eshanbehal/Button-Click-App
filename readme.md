@@ -26,6 +26,15 @@ learnt alot of new concepts today:
     sorce code can be found in my app file if anybody wishes to see.nd can also download the code to see working in your
     android studio.
 
+   nd at last just removed basic errors from the app.
+   great experience.cheers.. :)
+   leaving this project for now just going to get some more knolwedge on java first before 
+   jumping into complex part as java is core for android programming and basic understanding for this needed.
+
+
+    	GOOD BYE FOR NOW COMING SOON TO THIS REPO VERY SOON.:):)
+
+
 
 
 
