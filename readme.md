@@ -20,6 +20,18 @@ learnt alot of new concepts today:
 
     link: https://developer.android.com/guide/components/activities/intro-activities
 
+4. just learnt some imp java code regarding the button widget and also came to know the working of button
+    ie how to make button really work with the help of adding java code to the maiactivity.java file and updated my source code 
+    showing working of button in my app when pressed by using the method interface OnClickListner nd making my app work.
+    sorce code can be found in my app file if anybody wishes to see.nd can also download the code to see working in your
+    android studio.
+
+
+
+
+
+
+     By Eshan_Behal
 
 
  
