@@ -27,6 +27,11 @@ learnt alot of new concepts today:
     android studio.
 
    nd at last just removed basic errors from the app.
+
+   also in end just made my app more approprate by adding functionality og getText to my code so that
+   everytime anbody writes something in tect area on clicking button the text written by person will be shown.
+
+
    great experience.cheers.. :)
    leaving this project for now just going to get some more knolwedge on java first before 
    jumping into complex part as java is core for android programming and basic understanding for this needed.
