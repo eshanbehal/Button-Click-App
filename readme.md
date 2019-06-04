@@ -3,17 +3,23 @@ Button Click App
 hey guys just started something new today.made a simple app by using some widgets.
 learnt alot of new concepts today:
 
-CONSTRAINTS: the widgets that are not constraint on the screen will create problem as
- the android cannot find where to place the widgets ie the widgets will not be be positioned rightly
-a) widgets that aren't constraint horizontally will move to the left
+1. CONSTRAINTS: the widgets that are not constraint on the screen will create problem as
+ the android cannot find where to place the widgets ie the widgets will not be be positioned rightly.
 
-b) widgets that aren't constraint vertically will move to the top.
+  a) widgets that aren't constraint horizontally will move to the left
 
-ANCHOR POINT: easch constraint handle can be connected to one anchot pt.
+  b) widgets that aren't constraint vertically will move to the top.
+
+2. ANCHOR POINT: easch constraint handle can be connected to one anchot pt.
              an anchor pt is a constraint handle to the destination of the constraint
              or an edge of the screen.
              anchor pt can have more that one constraint going to them ie you can constraint
              multiple widgets to the edge of the screen.
+
+3. just learnt something really intresting abot the android framework and android activities:
+
+    link: https://developer.android.com/guide/components/activities/intro-activities
+
 
 
  
