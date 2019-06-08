@@ -51,6 +51,17 @@ learnt alot of new concepts today:
 
 3. Also learnt about BUNDLE which is an object that can be used to pass data around within the android framework.
 
+4. Learnt a lot of intresting things regarding the ACTIVITY LIFECYLCE:
+
+   various activities performed in a activity lifecycle eg 
+  -onCreate , onRestore , onPause , onResume etc
+
+   and also about the usage of "logt" and "logd" shortcuts for auto typing the log code for the used methods
+   in the overriden methods for the activity lifecycle.
+
+
+    
+
    
 
 
