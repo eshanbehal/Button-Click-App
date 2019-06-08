@@ -37,6 +37,17 @@ learnt alot of new concepts today:
    jumping into complex part as java is core for android programming and basic understanding for this needed.
 
 
+
+    8th june
+   ==========
+
+1. hey guys back to this project after few days.jst learnt some basic java concepts for android.
+
+   jst started off by testing some new code to my .java file by creating new layout files.
+
+
+
+
     	GOOD BYE FOR NOW COMING SOON TO THIS REPO VERY SOON.:):)
 
 

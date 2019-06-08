@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity{
                 textView.append(result);
             }
         };
-        button.setOnClickListener(ourOnClickListner);
+
+            button.setOnClickListener(ourOnClickListner);
+
     }
 }
