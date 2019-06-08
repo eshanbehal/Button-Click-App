@@ -41,14 +41,17 @@ learnt alot of new concepts today:
     8th june
    ==========
 
-1. hey guys back to this project after few days.jst learnt some basic java concepts for android.
+1. Hey guys back to this project after few days.jst learnt some basic java concepts for android.
 
-   jst started off by testing some new code to my .java file by creating new layout files.
+   Jst started off by testing some new code to my .java file by creating new layout files.
 
+2. Just modified my app by adding some funtionality for better user experience.
+   Learnt about the "saved instance state" - where the instance for every activity for the editable test
+   is saved every time the app is rotated.
 
+3. Also learnt about BUNDLE which is an object that can be used to pass data around within the android framework.
 
-
-    	GOOD BYE FOR NOW COMING SOON TO THIS REPO VERY SOON.:):)
+   
 
 
 

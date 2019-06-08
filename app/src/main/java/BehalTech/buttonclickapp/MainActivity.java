@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity{
             @Override
             public void onClick(View view) {
                 String result = userInput.getText().toString();
+                userInput.setText("");
                 result = result + "\n";
                 textView.append(result);
             }
