@@ -59,6 +59,22 @@ learnt alot of new concepts today:
    and also about the usage of "logt" and "logd" shortcuts for auto typing the log code for the used methods
    in the overriden methods for the activity lifecycle.
 
+5. In last just modified the code in order to check it for any errors.
+
+
+
+
+        
+
+
+           Project ButtonClickApp Ends Here.
+       =========================================
+
+
+
+
+   GREAT EXPERIENCE.......:)
+
 
     
 

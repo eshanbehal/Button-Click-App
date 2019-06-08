@@ -10,13 +10,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity {
 
 
     private EditText userInput;
     private TextView textView;
     private static final String TAG = "MainActivity";
-    private  final String TEXT_CONTENTS = "TextContents";
+    private final String TEXT_CONTENTS = "TextContents";
 
 
     @Override
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity{
             }
         };
 
-            button.setOnClickListener(ourOnClickListner);
+        button.setOnClickListener(ourOnClickListner);
         Log.d(TAG, "onCreate: out");
 
     }
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity{
     @Override
     public void onSaveInstanceState(Bundle outState) {
         Log.d(TAG, "onSaveInstanceState: in");
-        outState.putString(TEXT_CONTENTS , textView.getText().toString());
+        outState.putString(TEXT_CONTENTS, textView.getText().toString());
         super.onSaveInstanceState(outState);
         Log.d(TAG, "onSaveInstanceState: out");
     }
